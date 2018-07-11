@@ -1,0 +1,16 @@
+{
+  "name": "hsos-login-form",
+  "description": "A login form in a Polymer 3 web component. Connected to Firebase authentication.",
+  "main": "hsos-login-form.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "@polymer/paper-input": "^3.0.0-pre.21",
+    "@polymer/paper-button": "^3.0.0-pre.21",
+    "hsos-firebase": "0.0.3"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}

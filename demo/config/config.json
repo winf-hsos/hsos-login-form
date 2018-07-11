@@ -1,0 +1,10 @@
+{
+    "hsosLoginForm": {
+        "userNameHeader": "E-Mail",
+        "passwordHeader": "Passwort",
+        "userValuePlaceholder": "Enter E-Mail",
+        "passwordValuePlaceholder": "Your secret password please",
+        "loginButtonText": "Log Me In",
+        "logoutButtonText": "Get Me Out"
+    }
+}
